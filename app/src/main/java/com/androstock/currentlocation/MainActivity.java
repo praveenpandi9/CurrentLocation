@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
     TextView locationText;
 
     LocationManager locationManager;
-
+//a comment thats it
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
